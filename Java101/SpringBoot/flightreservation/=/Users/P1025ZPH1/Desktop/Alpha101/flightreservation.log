@@ -1,0 +1,28 @@
+2021-11-02 12:20:33.928  INFO 31124 --- [main] c.b.f.FlightreservationApplication       : Starting FlightreservationApplication using Java 16.0.2 on DESKTOP-16E3TAA with PID 31124 (C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation\target\classes started by P1025ZPH1 in C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation)
+2021-11-02 12:20:33.933  INFO 31124 --- [main] c.b.f.FlightreservationApplication       : No active profile set, falling back to default profiles: default
+2021-11-02 12:20:34.542  INFO 31124 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-11-02 12:20:34.605  INFO 31124 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+2021-11-02 12:20:35.010  INFO 31124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-11-02 12:20:35.020  INFO 31124 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-02 12:20:35.021  INFO 31124 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-02 12:20:35.272  INFO 31124 --- [main] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-02 12:20:35.286  INFO 31124 --- [main] o.a.c.c.C.[.[.[/flightreservation]       : Initializing Spring embedded WebApplicationContext
+2021-11-02 12:20:35.286  INFO 31124 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1314 ms
+2021-11-02 12:20:35.416  INFO 31124 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-11-02 12:20:35.753  INFO 31124 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-11-02 12:20:35.793  INFO 31124 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-02 12:20:35.838  INFO 31124 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-11-02 12:20:35.972  INFO 31124 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-11-02 12:20:36.101  INFO 31124 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-11-02 12:20:36.610  INFO 31124 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-02 12:20:36.619  INFO 31124 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-02 12:20:37.108  WARN 31124 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-02 12:20:37.263  INFO 31124 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: ServletContext resource [/index.html]
+2021-11-02 12:20:37.423  INFO 31124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/flightreservation'
+2021-11-02 12:20:37.431  INFO 31124 --- [main] c.b.f.FlightreservationApplication       : Started FlightreservationApplication in 3.856 seconds (JVM running for 4.582)
+2021-11-02 13:24:26.915  WARN 31124 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m20s127ms161µs900ns).
+2021-11-02 16:46:49.203  WARN 31124 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h28m50s554ms963µs300ns).
+2021-11-02 17:03:54.989  INFO 31124 --- [RMI TCP Connection(197)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-11-02 17:03:55.083  INFO 31124 --- [RMI TCP Connection(197)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-11-02 17:03:55.097  INFO 31124 --- [RMI TCP Connection(197)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-11-02 17:03:55.104  INFO 31124 --- [RMI TCP Connection(197)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

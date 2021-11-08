@@ -1,0 +1,65 @@
+2021-11-02 17:22:21 - Starting FlightreservationApplication using Java 16.0.2 on DESKTOP-16E3TAA with PID 19012 (C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation\target\classes started by P1025ZPH1 in C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation)
+2021-11-02 17:22:21 - No active profile set, falling back to default profiles: default
+2021-11-02 17:22:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-11-02 17:22:22 - Finished Spring Data repository scanning in 61 ms. Found 4 JPA repository interfaces.
+2021-11-02 17:22:22 - Tomcat initialized with port(s): 8080 (http)
+2021-11-02 17:22:22 - Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-02 17:22:22 - Starting service [Tomcat]
+2021-11-02 17:22:22 - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-02 17:22:23 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-02 17:22:23 - Initializing Spring embedded WebApplicationContext
+2021-11-02 17:22:23 - Root WebApplicationContext: initialization completed in 1956 ms
+2021-11-02 17:22:23 - HikariPool-1 - Starting...
+2021-11-02 17:22:23 - HikariPool-1 - Start completed.
+2021-11-02 17:22:23 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-02 17:22:23 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-11-02 17:22:23 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-11-02 17:22:24 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-11-02 17:22:24 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-02 17:22:24 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-02 17:22:25 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-02 17:22:25 - Adding welcome page: ServletContext resource [/index.html]
+2021-11-02 17:22:25 - Starting ProtocolHandler ["http-nio-8080"]
+2021-11-02 17:22:25 - Tomcat started on port(s): 8080 (http) with context path '/flightreservation'
+2021-11-02 17:22:25 - Started FlightreservationApplication in 5.352 seconds (JVM running for 6.643)
+2021-11-02 18:16:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-02 18:16:21 - Initializing Servlet 'dispatcherServlet'
+2021-11-02 18:16:21 - Completed initialization in 2 ms
+2021-11-02 18:16:21 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-11-02 18:17:29 - Inside the  SHOWLOGINPAGE: 
+2021-11-02 18:17:57 - Inside the SHOWREGISTRATIONPAGE: 
+2021-11-02 18:18:17 - Application shutdown requested.
+2021-11-02 18:18:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-11-02 18:18:17 - HikariPool-1 - Shutdown initiated...
+2021-11-02 18:18:17 - HikariPool-1 - Shutdown completed.
+2021-11-02 18:18:33 - Starting FlightreservationApplication using Java 16.0.2 on DESKTOP-16E3TAA with PID 32236 (C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation\target\classes started by P1025ZPH1 in C:\Users\P1025ZPH1\Documents\workspace-spring-tool-suite-4-4.12.0.RELEASE\flightreservation)
+2021-11-02 18:18:33 - No active profile set, falling back to default profiles: default
+2021-11-02 18:18:34 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-11-02 18:18:34 - Finished Spring Data repository scanning in 79 ms. Found 4 JPA repository interfaces.
+2021-11-02 18:18:35 - Tomcat initialized with port(s): 8080 (http)
+2021-11-02 18:18:35 - Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-02 18:18:35 - Starting service [Tomcat]
+2021-11-02 18:18:35 - Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-02 18:18:35 - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-11-02 18:18:35 - Initializing Spring embedded WebApplicationContext
+2021-11-02 18:18:35 - Root WebApplicationContext: initialization completed in 1841 ms
+2021-11-02 18:18:35 - HikariPool-1 - Starting...
+2021-11-02 18:18:36 - HikariPool-1 - Start completed.
+2021-11-02 18:18:36 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-02 18:18:36 - HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-11-02 18:18:36 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-11-02 18:18:36 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-11-02 18:18:37 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-02 18:18:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-02 18:18:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-02 18:18:38 - Adding welcome page: ServletContext resource [/index.html]
+2021-11-02 18:18:38 - Starting ProtocolHandler ["http-nio-8080"]
+2021-11-02 18:18:38 - Tomcat started on port(s): 8080 (http) with context path '/flightreservation'
+2021-11-02 18:18:38 - Started FlightreservationApplication in 5.562 seconds (JVM running for 6.784)
+2021-11-02 18:18:39 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-02 18:18:39 - Initializing Servlet 'dispatcherServlet'
+2021-11-02 18:18:39 - Completed initialization in 1 ms
+2021-11-02 18:18:42 - Inside the SHOWREGISTRATIONPAGE: 
+2021-11-02 18:18:45 - Inside the  SHOWLOGINPAGE: 
+2021-11-02 18:18:50 - Inside the  SHOWLOGINPAGE: 
+2021-11-02 18:18:56 - Inside the  LOGIN and the EMAIL is: harryspringtest
